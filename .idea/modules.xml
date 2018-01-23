@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/patterns-creational-prototype.iml" filepath="$PROJECT_DIR$/patterns-creational-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns-creational-singleton.iml" filepath="$PROJECT_DIR$/patterns-creational-singleton.iml" />
     </modules>
   </component>
 </project>
